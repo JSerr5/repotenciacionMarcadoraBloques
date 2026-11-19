@@ -642,12 +642,12 @@ repotenciacionMarcadoraBloques/
 
 Proyecto desarrollado por estudiantes del **Programa de Ingeniería Electrónica** de la **Facultad de Ingenierías** de la **Unidad Central del Valle del Cauca (UCEVA)** — Tuluá, Valle del Cauca, Colombia (Noviembre de 2026).
 
-| Integrante | Rol / Programa Académico | Contacto / Perfil de GitHub |
-| :--- | :--- | :--- |
-| **Liceth Tatiana Bolaños Cardona** | Estudiante de Ingeniería Electrónica — UCEVA | 📧 `ltcardona2005@gmail.com` / `liceth.bolanos01@uceva.edu.co`<br>🐙 [@licethbolanos2005](https://github.com/licethbolanos2005) |
-| **Alejandro González Rico** | Estudiante de Ingeniería Electrónica — UCEVA | 🎓 Programa de Ingeniería Electrónica — UCEVA |
-| **Samuel David Guevara Quiñones** | Estudiante de Ingeniería Electrónica — UCEVA | 🎓 Programa de Ingeniería Electrónica — UCEVA |
-| **Juan David Serrato Vanegas** | Estudiante de Ingeniería Electrónica — UCEVA | 📧 `juanda19-2001@hotmail.com`<br>🐙 [@JSerr5](https://github.com/JSerr5) |
+| Integrante | Rol / Programa Académico |
+| :--- | :--- |
+| **Liceth Tatiana Bolaños Cardona** | Estudiante de Ingeniería Electrónica — UCEVA |
+| **Alejandro González Rico** | Estudiante de Ingeniería Electrónica — UCEVA |
+| **Samuel David Guevara Quiñones** | Estudiante de Ingeniería Electrónica — UCEVA |
+| **Juan David Serrato Vanegas** | Estudiante de Ingeniería Electrónica — UCEVA |
 
 ### 🎓 Información Académica
 - **Institución:** Unidad Central del Valle del Cauca (UCEVA) — Laboratorio de Automatización
