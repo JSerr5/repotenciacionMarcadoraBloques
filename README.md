@@ -11,8 +11,6 @@
 [![PID REX-C100](https://img.shields.io/badge/Control_T%C3%A9rmico-PID_RKC_REX--C100_(200_%C2%B0C)-D9534F?style=for-the-badge)](https://www.rkcinst.co.jp/)
 [![Sensórica SICK](https://img.shields.io/badge/Sens%C3%B3rica-SICK_WT150--N460-0076C0?style=for-the-badge)](https://www.sick.com/)
 [![Neumática Festo / SNS](https://img.shields.io/badge/Electroneum%C3%A1tica-Festo_%7C_SNS_%7C_Pneutec-0091DC?style=for-the-badge)](https://www.festo.com/)
-[![SQLite](https://img.shields.io/badge/XRef_%26_VCI-SQLite_3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Apache Lucene](https://img.shields.io/badge/Search_Index-Apache_Lucene_3.0.3-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://lucene.apache.org/)
 [![Safety ISO 13850](https://img.shields.io/badge/Seguridad-ISO_13850_%7C_ISO_4414_%7C_IEC_60204--1-FFA500?style=for-the-badge)](https://www.iso.org/standard/69883.html)
 [![UCEVA](https://img.shields.io/badge/Instituci%C3%B3n-UCEVA_(Ingenier%C3%ADa_Electr%C3%B3nica)-1B365D?style=for-the-badge)](https://www.uceva.edu.co/)
 
@@ -587,13 +585,13 @@ repotenciacionMarcadoraBloques/
 │   │           └── 📁 SimWork/                      # Directorio de trabajo en tiempo de ejecución del simulador HMI (incluye buffer @MSG)
 │   ├── 📁 SPL/                                      # Preferencias de sesión del editor Ladder de TIA Portal
 │   │   └── 📄 options.json                          # Estado visual de segmentos y bloques abiertos en el editor
-│   └── 📁 SearchIndex/                              # Índice Apache Lucene (v3.0.3) generado por TIA Portal para búsqueda rápida de símbolos
+│   └── 📁 SearchIndex/                              # Índice interno generado por TIA Portal para búsqueda rápida de símbolos
 │
 ├── 📁 XRef/                                         # Sistema de Referencias Cruzadas (Cross-Reference) de TIA Portal
-│   └── 📄 XRef.db                                   # Base de datos SQLite 3 con el grafo de uso de variables (%I, %Q, %M, DB) y bloques
+│   └── 📄 XRef.db                                   # Archivo de referencias cruzadas con el grafo de uso de variables (%I, %Q, %M, DB) y bloques
 │
 ├── 📁 Vci/                                          # Interfaz de Control de Versiones (Version Control Interface) de TIA Portal
-│   └── 📄 Vci.db                                    # Base de datos SQLite 3 para sincronización con control de versiones
+│   └── 📄 Vci.db                                    # Archivo interno de TIA Portal para sincronización con control de versiones
 │
 ├── 📁 AdditionalFiles/                              # Archivos complementarios de gestión y archivo de PLC
 │   └── 📁 PLCM/
